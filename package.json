@@ -1,0 +1,13 @@
+{
+  "name": "repro-bumpp-parse-breaking-commits",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "release": "bumpp"
+  },
+  "devDependencies": {
+    "bumpp": "^9.8.1"
+  }
+}
